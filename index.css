@@ -37,16 +37,13 @@ section{
     border-radius: 30%;
     width : 60%;
 }
-.name{
-    padding-left: 0.8rem;
-    padding-top: 0.8rem;
-    padding-right: 0.8rem;
-    padding-bottom: 0.8rem;
+.name{   
     font-size: 1.2rem;
-    text-transform: uppercase;
     font-weight: 700;
+    text-transform: uppercase;
     word-spacing: 0.02px;
     text-align: center;
+    padding: 0.8rem;
 }
 .designation{
     text-transform: uppercase;
