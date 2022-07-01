@@ -71,20 +71,22 @@ a[href^="tel"]::before {
     width: 60px;
     text-decoration-line: line-through
     margin: 5px 50px;
-    color:blue;
+    color: blue;
 }
 .skills{
     font-size: 0.75rem;
     text-align: center;
+    text-transform: uppercase;
     padding-top: 1rem;
-    padding-bottom: 0.5rem;
+    padding-bottom: 1rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
 }
 .skill-name{
-    font-size: 0.65rem;
+    font-size: 0.65;
     font-weight: 0.65rem;
     text-align: left;
-    padding-bottom: 0.5rem;
-    padding:10px;
+    padding-bottom: 0.5rem;    
 }
 .progress-bar{
     border: 1px solid white;
